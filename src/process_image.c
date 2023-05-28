@@ -4,6 +4,8 @@
 #include <math.h>
 #include "image.h"
 
+using namespace std;
+
 float get_pixel(image im, int x, int y, int c)
 {
     // TODO Fill this in
